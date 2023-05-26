@@ -75,8 +75,8 @@ sentence = 'Start a sentence and then bring it to an end'
 from bs4 import BeautifulSoup
 
 text = ''' 
-On this one I _have_ to comment... these f*ckin //people make//: $5000 {per sequel!!?} [NONSENSE_!] <h2> #Gr0ßß_boY </h2> also mentioned it... 
-Like \\Mad Max II\\", \\"The wild one\\" and /many others/ `dramatize exposition'\x85 show, don't even tell about p*rn films, 
+On this one I _have_ to comment... these n**ghty //people make//: $5000 {per sequel!!?} [NONSENSE_!] <h2> #Gr0ßß_boY </h2> also mentioned it... 
+Like \\Mad Max II\\", \\"The wild one\\" and /many others/ `dramatize exposition'\x85 show, don't even tell about m*ngolian films, 
 long--talk about wanting to go to sleep; @nd reaŁ Łife ˇ˘¤~@ - just sort of plods along\x97no? (So there are no flashy endings). 
 [Where will this lead?] -- Big big question.. hmm; why?
 <br /><br />~*~Cupid@Grl~*~ 
