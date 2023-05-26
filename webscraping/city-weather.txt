@@ -1,0 +1,8 @@
+Current weather info in London: 11°C, Túlnyomóan napos (kedd 15:00)
+Current weather info in  Budapest: 1°C, Foltokban felhős (kedd 16:00)
+Current weather info in  Békés: 2°C, Foltokban felhős (kedd 16:00)
+Current weather info in  Békéscsaba: 2°C, Foltokban felhős (kedd 16:00)
+Current weather info in Ancara: 3°C, Enyhe zápor (péntek 17:00)
+Current weather info in  Helsinki: -7°C, Felhős (péntek 16:00)
+Current weather info in  Moscow: -21°C, Derült idő, időnként felhős (péntek 17:00)
+Current weather info in  Cairo: 20°C, Túlnyomóan felhős (péntek 16:00)
